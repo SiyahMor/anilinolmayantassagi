@@ -37,13 +37,13 @@ to this section's matching END comment to see page-specific styles.
 /* Import fonts */
 @font-face {
   font-family: HK Grotesk;
-  src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+  src: url("https://cdn.glitch.com/b99161dd-c359-4251-baac-bd5b9cd6b9b6%2FPicsArt_05-31-01.48.18.jpg?v=1622815220965")
     format("opentype");
 }
 @font-face {
   font-family: HK Grotesk;
   font-weight: bold;
-  src: url("https://cdn.glitch.com/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+  src: url("https://cdn.glitch.com/b99161dd-c359-4251-baac-bd5b9cd6b9b6%2FPicsArt_05-31-01.48.18.jpg?v=1622815220965")
     format("opentype");
 }
 
@@ -57,12 +57,12 @@ to this section's matching END comment to see page-specific styles.
   height: 2.75rem;
   align-items: center;
   cursor: pointer;
-  background: #000001;
-  border: 1px solid #000000;
+  background: #1d1d1f;
+  border: 1px solid #1d1d1f;
   box-sizing: border-box;
   border-radius: 4px;
   text-decoration: none;
-  color: #000;
+  color: #ff7d03;
   white-space: nowrap;
   margin-left: auto;
 }
